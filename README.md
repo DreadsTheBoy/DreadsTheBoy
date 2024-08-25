@@ -16,4 +16,4 @@
 #### -*- Dart/Flutter - Coder - Cursando
 #### -*- JavaScript - Luiz Otávio Miranda - Cursando
 
-#### Fora da Área de Tecnologia eu Pratico Capoeira desde 2013 sendo Hoje Graduado como Professor Instrutor na Associação de Capoeira Navalha de Prata em Campo Magro - PR, Sendo Reconhecido e afiliado a Liga Brasileira de Capoeira
+#### Fora da Área de Tecnologia eu Pratico Capoeira desde 2013 sendo Hoje Graduado como Professor Instrutor na Associação de Capoeira Zambi em Curitiba - PR, Sendo Reconhecido e afiliado a Liga Brasileira de Capoeira
