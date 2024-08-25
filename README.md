@@ -1,7 +1,7 @@
 ## Olá! Meu Nome é Allan Gonçalves
-#### Tenho 24 Anos e moro em Curitiba - PR, Atualmente eu trabalho na Rafitec/Propex desde 2017, porem no T.I entrei somente em 2021 como um dos Desenvolvedores do ERP da empresa utilizando Delphi (object pascal)
-#### Sou o responsável pelos desenvolvimentos e manutenções dos Dashboard`s/Relatórios no Power BI da Filial de Curitiba desde 2020
-#### Faculdade: Estou cursando Ciência de Dados na Estácio de Sá
+#### Tenho 25 Anos e moro em Curitiba - PR, Atualmente eu trabalho na Rafitec/Propex(Vaccaro Group) desde 2017, porem no T.I entrei somente em 2021 como um dos Desenvolvedores do ERP da empresa utilizando Delphi (object pascal)
+#### Fui tambem o responsável pelos desenvolvimentos e manutenções dos Dashboard`s/Relatórios no Power BI da Filial de Curitiba desde 2020, Hoje sendo parte da equipe de implantação e sustentação do Protheus, ERP sendo implantado no grupo
+#### Faculdade: Estou cursando Analise e Desenvolvimento de Sistemas na Unicesumar
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DreadsTheBoy&hide_progress=true&layout=donut-vertical&size_weight=0.5&count_weight=0.5&theme=dracula))
 
